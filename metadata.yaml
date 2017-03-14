@@ -1,11 +1,14 @@
 _repo: The-Complete-Poetical-Works-of-Percy-Bysshe-Shelley-Volume-3_4799
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
       agent_name: Hutchinson, Thomas
       gutenberg_agent_id: '1582'
       url: http://www.gutenberg.org/2009/agents/1582
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shelley, Percy Bysshe
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1529
     wikipedia: http://en.wikipedia.org/wiki/Percy_Bysshe_Shelley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4799#The-Complete-Poetical-Works-of-Percy-Bysshe-Shelley-Volume-3
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
