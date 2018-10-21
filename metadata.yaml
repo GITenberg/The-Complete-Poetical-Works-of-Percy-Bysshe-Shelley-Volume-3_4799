@@ -1,5 +1,5 @@
 _repo: The-Complete-Poetical-Works-of-Percy-Bysshe-Shelley-Volume-3_4799
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -33,5 +33,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'English poetry'
 - !lcc 'PR'
+- GITenberg
 title: The Complete Poetical Works of Percy Bysshe Shelley — Volume 3
 url: http://www.gutenberg.org/ebooks/4799
